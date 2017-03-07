@@ -32,6 +32,7 @@
         <th>时间</th>
         <th>RedPoint</th>
         <th>Weight</th>
+        <th>健身部位</th>
         <th>心得</th>
     </tr>
     </thead>
@@ -50,6 +51,7 @@
                 ${var.weight}公斤
             </c:if>
             </td>
+            <td style="text-align: center">${var.actionName}</td>
             <td>${var.temp}</td>
         </tr>
         <tr id="${var.id}" style="display: none">

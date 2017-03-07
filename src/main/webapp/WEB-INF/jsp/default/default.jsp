@@ -29,6 +29,10 @@
 	<%--<link rel="stylesheet" type="text/css" href="/assets/plugins/select2/select2_metro.css" />--%>
 	<%--<link rel="stylesheet" href="/assets/plugins/data-tables/DT_bootstrap.css" />--%>
 	<%--<link href="/assets/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>--%>
+
+	<link href="/assets/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet" type="text/css"/>
+	<link href="/assets/css/pages/portfolio.css" rel="stylesheet" type="text/css"/>
+	<link href="/assets/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>
 </head>
 <body>
 <decorator:body />

@@ -10,7 +10,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 <fmt:formatDate value="${theday}" pattern="a HH:mm:ss"/>
-        <td class="details" colspan="5">
+        <td class="details" colspan="6">
             <table>
                 <tbody>
                     <c:choose>
