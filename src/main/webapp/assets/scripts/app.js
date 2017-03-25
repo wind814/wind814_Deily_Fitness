@@ -3,7 +3,7 @@ Core script to handle the entire theme and core functions
 **/
 var App = function () {
 
-    // IE mode
+    //  IE mode
     var isRTL = false;
     var isIE8 = false;
     var isIE9 = false;
